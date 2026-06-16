@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "html-tools-main",
+  "compatibility_date": "2026-06-16",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "html-tools-main"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
